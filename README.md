@@ -5,6 +5,7 @@
 - 📫 How to reach me - contact via sudhansanthosraj25@gmail.com
 
 -About Me?:
+🛠   I’m currently working with Javascript, React.js and MongoDB, also making readme's for my old projects and pushing them on daily basis.😓
 -🛠   I’m currently working with Javascript, React.js and MongoDB, also making readme's for my old projects and pushing them on daily basis.😓
 -🚀   Highly active. Highly entusiastic in tech.
 -💬   Ask me anything! I am happy to help.
