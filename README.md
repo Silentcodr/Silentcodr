@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silentcodr
+- 👋 Hi, I’m @Sudhan Santhosraj 
 - 👀 I’m interested in Web/App Developement
 - 🌱 I’m currently learning Javascript,React.js
 - 💞️ I’m looking to collaborate on Small Projects
