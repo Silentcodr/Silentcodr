@@ -34,7 +34,8 @@
 
 ## 📊 GitHub Stats
 
-![Sudhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhanSanthosraj\&show_icons=true\&theme=tokyonight)
+![Sudhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silentcodr&show_icons=true&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanSanthosraj\&layout=compact\&theme=tokyonight)
 
