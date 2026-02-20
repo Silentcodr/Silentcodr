@@ -38,17 +38,41 @@
 React Native • Spring Boot • PostgreSQL  
 A GPS-based running app to track distance, pace, routes and weekly progress  
 
-### 🛒 Online Grocery Shopping Web App
-React • Node.js • MongoDB  
-Full-stack ecommerce platform with cart, login and order management  
+---
 
-### 🤖 AI Resume Scanner
-Python • Machine Learning • NLP  
-Resume screening system that ranks candidates based on job descriptions  
+### 🏥 Hospital Appointment & Medical Record System
+**Java • Spring Boot • REST APIs • Database Integration**  
+Backend system to manage patient records, doctor schedules, and appointments with secure data handling.
 
-### 🏥 Hospital Record Management System
-Java • Spring Boot • PostgreSQL  
-REST API for managing doctors, patients and appointments
+---
+
+### 🌐 Sudhan’s Developer Portfolio
+**TypeScript • Modern Frontend Stack**  
+Personal portfolio website showcasing projects, skills, and experience in a clean responsive UI.
+
+---
+
+### ⏰ Project Clock Web App
+**TypeScript • Frontend Development**  
+Interactive clock and time utility web application built with modern UI principles.
+
+---
+
+### 🎓 Final Year Engineering Project
+**HTML • Web Technologies**  
+Academic project demonstrating core software development and problem-solving skills.
+
+---
+
+### 🔐 Secure Credential Manager
+**Java • Security Concepts**  
+Application for safely storing and managing user credentials with encryption techniques.
+
+---
+
+### 🍽 Cloud Kitchen Website
+**HTML • CSS • Web Design**  
+Business-style website for a cloud kitchen showcasing menu, services, and contact features.
 
 ## 🔥 My Absolute Favorites
 
