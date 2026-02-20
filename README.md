@@ -32,13 +32,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silentcodr&show_icons=true&theme=dark&count_private=true)
+![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silentcodr&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentcodr&layout=compact&theme=dark)
-
----
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentcodr&layout=compact&hide_border=true)
 
 ## 🔥 My Absolute Favorites
 
