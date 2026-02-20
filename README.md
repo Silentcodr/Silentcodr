@@ -32,11 +32,23 @@
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Featured Projects
 
-![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silentcodr&show_icons=true&hide_border=true)
+### 🏃 Running Tracker Mobile App (In Progress)
+React Native • Spring Boot • PostgreSQL  
+A GPS-based running app to track distance, pace, routes and weekly progress  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silentcodr&layout=compact&hide_border=true)
+### 🛒 Online Grocery Shopping Web App
+React • Node.js • MongoDB  
+Full-stack ecommerce platform with cart, login and order management  
+
+### 🤖 AI Resume Scanner
+Python • Machine Learning • NLP  
+Resume screening system that ranks candidates based on job descriptions  
+
+### 🏥 Hospital Record Management System
+Java • Spring Boot • PostgreSQL  
+REST API for managing doctors, patients and appointments
 
 ## 🔥 My Absolute Favorites
 
@@ -44,6 +56,12 @@
 * 📰 Love debating and arguing in pointless tech conversations
 * 🍕 I love and adore every single milestone in tech — every technological advancement, a step into the future of mankind
 * 🚀 I’d like to be a part of it
+
+## 📈 What I’m Working On
+
+✔ Building a mobile fitness tracking app  
+✔ Improving backend performance in Spring Boot  
+✔ Contributing to personal projects daily  
 
 ### 👉 **So HIRE ME!**
 
