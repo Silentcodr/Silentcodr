@@ -35,45 +35,30 @@
 
 ## 🚀 Featured Projects
 
-### 🏃 Running Tracker Mobile App (In Progress)
-React Native • Spring Boot • PostgreSQL  
-A GPS-based running app to track distance, pace, routes and weekly progress  
+🏃 Running Tracker Mobile App (In Progress)
 
----
+React Native • Spring Boot • PostgreSQL
+A GPS-based running app to track distance, pace, routes and weekly progress
 
-### 🏥 Hospital Appointment & Medical Record System
-**Java • Spring Boot • REST APIs • Database Integration**  
-Backend system to manage patient records, doctor schedules, and appointments with secure data handling.
+🏥 Hospital Appointment & Medical Record System
 
----
+React • Spring Boot • PostgreSQL • Fullstack Web App
+A comprehensive hospital management system that lets admins track departments, manage doctor schedules, register patients, and organize appointments in real time with a modern UI and database-driven backend.
 
-### 🌐 Sudhan’s Developer Portfolio
-**TypeScript • Modern Frontend Stack**  
-Personal portfolio website showcasing projects, skills, and experience in a clean responsive UI.
+🌐 Sudhan’s Developer Portfolio
 
----
+React • TypeScript • CSS
+A modern, responsive personal portfolio website with interactive UI, showcasing projects, skills, and contact features, optimized for deployment on platforms like Netlify.
 
-### ⏰ Project Clock Web App
-**TypeScript • Frontend Development**  
-Interactive clock and time utility web application built with modern UI principles.
+⏰ Project Clock / Orbit Dashboard Web App
 
----
+React • TypeScript • Vite
+A dynamic dashboard-style web application featuring a real-time clock, productivity widgets, notes, smart news feed, animated UI, and overall hub for essential tools and information.
 
-### 🎓 Final Year Engineering Project
-**HTML • Web Technologies**  
-Academic project demonstrating core software development and problem-solving skills.
+🎓 Final Year Engineering Project
 
----
-
-### 🔐 Secure Credential Manager
-**Java • Security Concepts**  
-Application for safely storing and managing user credentials with encryption techniques.
-
----
-
-### 🍽 Cloud Kitchen Website
-**HTML • CSS • Web Design**  
-Business-style website for a cloud kitchen showcasing menu, services, and contact features.
+AI • Python • Flask • OCR & YOLOv8
+An AI-driven system to detect and prevent fraudulent medical fundraising requests. It uses YOLOv8 for detecting text regions, PaddleOCR for text extraction, and fuzzy matching for verification against trusted data.
 
 ## 🔥 My Absolute Favorites
 
