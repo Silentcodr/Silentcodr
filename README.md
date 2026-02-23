@@ -33,8 +33,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
 🏃 Running Tracker Mobile App (In Progress)
 
 React Native • Spring Boot • PostgreSQL
